@@ -1,0 +1,43 @@
+p{
+    color: blanchedalmond;
+}
+table, th, td{
+    background-color: azure;
+    border: 2px solid;
+    margin-left: 250px;
+}
+img{
+    width: 10%;
+    border-radius: 1000px;
+}
+a{
+    text-decoration:none
+}
+div{
+    background-color: aqua;
+    width: 40%;
+    border-radius: 17px;
+    padding: 0.0%;
+    
+}
+.firstdiv:hover{
+    border: dashed;
+}
+.anotherclass:hover{
+    background-color: rgb(10, 10, 143);
+    border: rgb(170, 103, 20);
+    padding-left: 10%;
+
+}
+#id_1{
+    margin-left: 15%;
+    
+}
+.last{
+    width: 79%;
+    padding: 10%;
+    display: flex;
+}
+.flex_1{
+    display: flex;
+}
